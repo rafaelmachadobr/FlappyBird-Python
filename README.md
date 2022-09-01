@@ -7,7 +7,7 @@
 1. Clone o repositório:
 
    ```bash
-   $ git clone https://github.com/rafaelmachadobr/FlappyBird-Python
+   $ git clone https://github.com/rafaelmachadobr/FlappyBird-Python.git
    ```
    ou baixe como zip e extraia.
  1. Execute o arquivo FlappyBird.py
